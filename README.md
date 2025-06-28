@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # project-minerva
 A structured multi-agent financial research system for intelligent investment analysis.
@@ -83,4 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ```
 
 =======
->>>>>>> 0ff29969a7ffa6bb1894c3135beae291b1a324dc
+
