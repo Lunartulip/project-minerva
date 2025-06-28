@@ -48,7 +48,7 @@ class DeepseekClient:
 # 使用示例
 if __name__ == "__main__":
     # 设置 Deepseek API 密钥
-    deepseek_client = DeepseekClient(api_key="sk-45b8xxxx0ac04ae0b721e63754f2a314")
+    deepseek_client = DeepseekClient(api_key="your-api-key")
     
     prompt = "Please provide an analysis of the stock market trends in 2023."
     output = deepseek_client.generate_text(prompt)
