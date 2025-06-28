@@ -1,7 +1,6 @@
-=======
-# project-minerva
+# Project-Minerva-AI Fund
 A structured multi-agent financial research system for intelligent investment analysis.
->>>>>>> 0ff29969a7ffa6bb1894c3135beae291b1a324dc
+
 ```markdown
 # 🌟 Project Minerva
 A structured multi-agent financial research system for intelligent investment analysis.
@@ -81,5 +80,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-=======
+
 
