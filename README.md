@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# project-minerva
+A structured multi-agent financial research system for intelligent investment analysis.
+>>>>>>> 0ff29969a7ffa6bb1894c3135beae291b1a324dc
 ```markdown
 # 🌟 Project Minerva
 A structured multi-agent financial research system for intelligent investment analysis.
@@ -55,6 +60,7 @@ poetry run python scripts/run_agent_demo.py --thesis "AI-powered financial agent
 # Generate an HTML report
 poetry run python scripts/run_agent_demo.py --html
 ```
+<<<<<<< HEAD
 
 🗺️ **Roadmap**
 
@@ -76,3 +82,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
+=======
+>>>>>>> 0ff29969a7ffa6bb1894c3135beae291b1a324dc
